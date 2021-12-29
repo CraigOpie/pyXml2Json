@@ -1,0 +1,57 @@
+{
+  "records" : {
+    "students" : [
+      {
+        "name" : "Doe, Jane",
+        "major" : "CENT",
+        "scores" : [
+          88.5,
+          91.2,
+          92.6,
+          89.5,
+          97.3,
+          94.2,
+          92.3
+        ]
+      },
+      {
+        "name" : "Doe, John",
+        "major" : "CENT",
+        "scores" : [
+          78.5,
+          82.4,
+          88.7,
+          81.2,
+          88.9,
+          92.4,
+          85.3
+        ]
+      },
+      {
+        "name" : "Gates, Bill",
+        "major" : "ICS",
+        "scores" : [
+          81.0,
+          91.0,
+          97.2,
+          95.4,
+          0.0,
+          96.2,
+          98.2
+        ]
+      }
+    ],
+    "course" : {
+      "titles" : "lab1,lab2,hw1,exam1,lab3,hw2,exam2",
+      "weights" : [
+        3.0,
+        3.0,
+        4.0,
+        6.0,
+        3.0,
+        4.0,
+        10.0
+      ]
+    }
+  }
+}

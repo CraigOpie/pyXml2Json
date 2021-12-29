@@ -1,0 +1,24 @@
+<?xml version="1.0" ?> 
+<records> 
+  <students> 
+    <student> 
+      <name>Doe, Jane</name> 
+      <major>CENT</major> 
+      <scores>88.5,91.2,92.6,89.5,97.3,94.2,92.3</scores> 
+    </student> 
+    <student> 
+      <name>Doe, John</name> 
+      <major>CENT</major> 
+      <scores>78.5,82.4,88.7,81.2,88.9,92.4,85.3</scores> 
+    </student> 
+    <student> 
+      <name>Gates, Bill</name> 
+      <major>ICS</major> 
+      <scores>81.0,91.0,97.2,95.4,0.0,96.2,98.2</scores> 
+    </student> 
+  </students> 
+  <course> 
+    <titles>lab1,lab2,hw1,exam1,lab3,hw2,exam2</titles> 
+    <weights>3.0,3.0,4.0,6.0,3.0,4.0,10.0</weights> 
+  </course> 
+</records>
